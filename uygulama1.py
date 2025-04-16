@@ -1,6 +1,6 @@
-not = int(input("Notunuzu girin (0-100): "))
+not1 = int(input("Notunuzu girin (0-100): "))
 
-if not < 0 or not_deg > 100:
+if not1 < 0 or not_deg > 100:
     print("Hatalı giriş")
 elif 90 <= not_deg <= 100:
     print("Pekiyi")
